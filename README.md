@@ -9,3 +9,11 @@ Here are my favorite repositories
 ### Programming Language
 
 1. [Beef](https://github.com/beefytech/Beef)
+
+### Terminal
+
+1. [terminal](https://github.com/microsoft/terminal)
+
+### Art Tool
+
+1. [aseprite](https://github.com/aseprite/aseprite)
